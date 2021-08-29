@@ -1,0 +1,13 @@
+form {
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+}
+
+input {
+    height: 5vh;
+}
+output{
+  
+height:50vh;
+}
